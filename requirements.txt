@@ -1,0 +1,9 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+--find-links https://storage.googleapis.com/jax-releases/jax_releases.html
+numpy
+scipy
+scikit-learn
+matplotlib
+jax==0.2.7
+jaxlib==0.1.57+cuda101
+torch==1.7.1+cu101
